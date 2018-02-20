@@ -1,2 +1,2 @@
 # deep-learning
-deep learing from Udacity
+deep learning from Udacity
